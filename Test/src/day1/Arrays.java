@@ -22,6 +22,7 @@ public class Arrays {
 			System.out.println(temp);
 		}
 		System.out.println("_____________");
+		System.out.println("thank you");
 		
 		
 	//____________________________________________________	
